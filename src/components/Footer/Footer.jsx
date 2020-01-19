@@ -29,7 +29,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Developer by{' '}
+          © {new Date().getFullYear()} - Developed from template by{' '}
           <a href="https://github.com/mdb1710" target="_blank" rel="noopener noreferrer">
             Michael Bonner
           </a>
