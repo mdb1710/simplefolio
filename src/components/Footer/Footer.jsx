@@ -34,7 +34,6 @@ const Footer = () => {
             Michael Bonner
           </a>
         </p>
-        <p>Template Design Credit to Jacobo Martinez</p>
 
         {isEnabled && <GithubButtons />}
       </Container>
